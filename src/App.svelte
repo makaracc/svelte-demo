@@ -4,6 +4,7 @@
 </script>
 
 <main>
+  <button>
   <img src="https://svelte.dev/tutorial/image.gif">
 </main>
 
