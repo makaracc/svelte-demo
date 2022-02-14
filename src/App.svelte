@@ -9,6 +9,8 @@
 
   <Counter />
 
+  <img src="https://svelte.dev/tutorial/image.gif">
+
   <p>
     Visit <a href="https://svelte.dev">svelte.dev</a> to learn how to build Svelte
     apps.
