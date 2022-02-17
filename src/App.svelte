@@ -8,6 +8,7 @@
 
 <main>
   <button on:click={setShow}> </button>
+  <button on:click={setShow}> </button>
 </main>
 
 <style>
